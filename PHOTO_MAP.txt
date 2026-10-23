@@ -1,0 +1,74 @@
+CDFiles photo map
+
+Artifact photos and signage are copies of images embedded in RPH WEBSITE INPUTS (2).docx.
+Original image files are preserved in assets/images/source-photos/.
+Replace the named local image file if you want to change a photo. Keep the same path in script.js, or update the path there too.
+
+Manila Cathedral — photo: assets/images/artifacts/manila-cathedral.jpg (source image26.jpg)
+  flip/signage: assets/images/signage/manila-cathedral-sign.jpg (source image43.jpg)
+Palacio del Gobernador — photo: assets/images/artifacts/palacio-del-gobernador.jpg (source image50.jpg)
+  flip/signage: assets/images/signage/palacio-del-gobernador-sign.jpg (source image56.jpg)
+Baluartillo de San Francisco Javier — photo: assets/images/artifacts/baluartillo-de-san-francisco-javier.jpg (source image60.jpg)
+  flip/signage: assets/images/signage/baluartillo-de-san-francisco-javier-sign.jpg (source image52.jpg)
+Fort Santiago — photo: assets/images/artifacts/fort-santiago.jpg (source image21.jpg)
+  flip/signage: assets/images/signage/fort-santiago-sign.jpg (source image46.jpg)
+Shrine of Rizal — photo: assets/images/artifacts/shrine-of-rizal.jpg (source image25.jpg)
+  flip/signage: assets/images/signage/shrine-of-rizal-sign.jpg (source image40.jpg)
+The White Cross — photo: assets/images/artifacts/the-white-cross.jpg (source image83.jpg)
+  flip/signage: assets/images/signage/the-white-cross-sign.jpg (source image7.jpg)
+The Dungeons of Fort Santiago — photo: assets/images/artifacts/the-dungeons-of-fort-santiago.jpg (source image35.jpg)
+  flip/signage: assets/images/signage/the-dungeons-of-fort-santiago-sign.jpg (source image67.jpg)
+Rajah Sulayman Theatre — photo: assets/images/artifacts/rajah-sulayman-theatre.jpg (source image66.jpg)
+  flip/signage: assets/images/signage/rajah-sulayman-theatre-sign.jpg (source image47.jpg)
+Maitum Burial Jar Covers — photo: assets/images/artifacts/maitum-burial-jar-covers.jpg (source image62.jpg)
+  flip/signage: assets/images/signage/maitum-burial-jar-covers-sign.jpg (source image38.jpg)
+Tangkola / Tangkulo / Tunkulu (Warrior Headdress) — photo: assets/images/artifacts/tangkola-tangkulo-tunkulu-warrior-headdress.jpg (source image80.jpg)
+  flip/signage: assets/images/signage/tangkola-tangkulo-tunkulu-warrior-headdress-sign.jpg (source image41.jpg)
+Tilar / Pang-abelan / Pang-ablan (Traditional Ilokano Foot Loom) — photo: assets/images/artifacts/tilar-pang-abelan-pang-ablan-traditional-ilokano-foot-loom.jpg (source image31.jpg)
+  flip/signage: assets/images/signage/tilar-pang-abelan-pang-ablan-traditional-ilokano-foot-loom-sign.jpg (source image44.jpg)
+Ablon (Mandaya Backstrap Loom) — photo: assets/images/artifacts/ablon-mandaya-backstrap-loom.jpg (source image6.jpg)
+  flip/signage: assets/images/signage/ablon-mandaya-backstrap-loom-sign.jpg (source image2.jpg)
+Butuan Ivory Seal — photo: assets/images/artifacts/butuan-ivory-seal.jpg (source image57.jpg)
+  flip/signage: assets/images/signage/butuan-ivory-seal-sign.jpg (source image8.jpg)
+Batong Monreal (Monreal Stones) — photo: assets/images/artifacts/batong-monreal-monreal-stones.jpg (source image34.jpg)
+  flip/signage: assets/images/signage/batong-monreal-monreal-stones-sign.jpg (source image1.jpg)
+Manunggul Burial Jar — photo: assets/images/artifacts/manunggul-burial-jar.jpg (source image28.jpg)
+  flip/signage: assets/images/signage/manunggul-burial-jar-sign.jpg (source image69.jpg)
+La Antigua Escritura Filipina (The Ancient Filipino Writing) — photo: assets/images/artifacts/la-antigua-escritura-filipina-the-ancient-filipino-writing.jpg (source image18.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Doctrina Christiana (Christian Doctrine) — photo: assets/images/artifacts/doctrina-christiana-christian-doctrine.jpg (source image77.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Laguna Copper-Plate Inscription — photo: assets/images/artifacts/laguna-copper-plate-inscription.jpg (source image4.jpg)
+  flip/signage: assets/images/signage/laguna-copper-plate-inscription-sign.jpg (source image61.jpg)
+Lansa (Coffin Pegs) — photo: assets/images/artifacts/lansa-coffin-pegs.jpg (source image39.jpg)
+  flip/signage: assets/images/signage/lansa-coffin-pegs-sign.jpg (source image45.jpg)
+Allongan / Aloang (Wooden Coffin with Carabao Motif) — photo: assets/images/artifacts/allongan-aloang-wooden-coffin-with-carabao-motif.jpg (source image82.jpg)
+  flip/signage: assets/images/signage/allongan-aloang-wooden-coffin-with-carabao-motif-sign.jpg (source image13.jpg)
+Butuan Metal Paleograph — photo: assets/images/artifacts/butuan-metal-paleograph.jpg (source image74.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Pinagpagan (Ceremonial Blanket) — photo: assets/images/artifacts/pinagpagan-ceremonial-blanket.jpg (source image3.jpg)
+  flip/signage: assets/images/signage/pinagpagan-ceremonial-blanket-sign.jpg (source image32.jpg)
+Josephine Sleeping — photo: assets/images/artifacts/josephine-sleeping.jpg (source image27.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Portrait of Dr. Jose Rizal — photo: assets/images/artifacts/portrait-of-dr-jose-rizal.jpg (source image23.jpg)
+  flip/signage: assets/images/signage/portrait-of-dr-jose-rizal-sign.jpg (source image49.jpg)
+Academic Diplomas and Certificates of Dr. José Rizal — photo: assets/images/artifacts/academic-diplomas-and-certificates-of-dr-jose-rizal.jpg (source image17.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Spoliarium (Juan Luna) — photo: assets/images/artifacts/spoliarium-juan-luna.jpg (source image19.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Philippine Serpent Eagle — photo: assets/images/artifacts/philippine-serpent-eagle.jpg (source image5.jpg)
+  flip/signage: assets/images/signage/philippine-serpent-eagle-sign.jpg (source image14.jpg)
+Philippine Eagle Owl — photo: assets/images/artifacts/philippine-eagle-owl.jpg (source image63.jpg)
+  flip/signage: assets/images/signage/philippine-eagle-owl-sign.jpg (source image53.jpg)
+Rufous Night-Heron (Bakaw or Lapay) — photo: assets/images/artifacts/rufous-night-heron-bakaw-or-lapay.jpg (source image81.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+Little Heron — photo: assets/images/artifacts/little-heron.jpg (source image20.jpg)
+  flip/signage: disabled because no selected matching signage photo was assigned
+
+Member photos:
+assets/images/members/catbagan.jpg
+assets/images/members/dasoc.jpg
+assets/images/members/falco.jpg
+
+Documentation gallery: assets/images/documentation/documentation-1.jpg through documentation-10.jpg.
+Destination photos: assets/images/destinations/. Fort San Felipe uses an online Wikimedia Commons photo because no Fort San Felipe photo was present in the supplied Word document.
